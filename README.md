@@ -22,7 +22,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###Technologies Used
+### Technologies Used
 
 Frontend: Vue.js
 API: WeatherAPI (https://www.weatherapi.com/)
