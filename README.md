@@ -49,11 +49,11 @@ https://www.weatherapi.com/
 ```
 
 ### Project Structure
-src/components - Vue components including SearchCity.vue, Navigation.vue, etc.
-src/firebase - Firebase initialization and config
-src/views - Main app views
-public - Static assets
-src/uploadCityDirectory - for uploading bulk citied to Backend
+src/components - Vue components including SearchCity.vue, Navigation.vue, etc.  
+src/firebase - Firebase initialization and config  
+src/views - Main app views  
+public - Static assets  
+src/uploadCityDirectory - for uploading bulk citied to Backend  
 
 ### Usage
 Click the search icon to open the city search input.
