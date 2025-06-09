@@ -24,13 +24,21 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Technologies Used
 
-Frontend: Vue.js
-API: WeatherAPI (https://www.weatherapi.com/)
-One Call API 3.0(https://api.openweathermap.org/data/3.0/onecall?lat=34.0522&lon=-118.2437&exclude=current,minutely,alerts&appid=4ea2f2d1f43135c0d12e48a6deb57cc3)
-for Search city used meta data
+#### Frontend: Vue.js
+#### API: WeatherAPI 
+'''
+https://www.weatherapi.com/
+'''
+#### One Call API 3.0
+''''
+https://api.openweathermap.org/data/3.0/onecall?lat=34.0522&lon=-118.2437&exclude=current,minutely,alerts&appid=4ea2f2d1f43135c0d12e48a6deb57cc3
+'''
+#### for Search city used meta data
+'''
 https://www.weatherbit.io/api/meta
-Backend: Firebase Firestore (Cloud Firestore for city data)
-Styling: SCSS
+'''
+#### Backend: Firebase Firestore (Cloud Firestore for city data)
+#### Styling: SCSS
 
 Prerequisites
 Node.js & npm installed
